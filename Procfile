@@ -1,1 +1,1 @@
-web: voila --Voila.ip=0.0.0.0 --port=SPORT--no-browser
+worker: node run.js
